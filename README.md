@@ -29,7 +29,8 @@ This is a web app built with **Flask** that lets users upload an audio file and 
 - Passes features to a trained model
 - Returns the predicted music genre
 
-*Note: The app runs only while the Colab notebook is active.*
+*Note: The app runs only while the Colab notebook is active.
+Create a **config.py** file with `NGROK_TOKEN = 'Your_ngrok_Authotoken'` within the directory structure.*
 
 ---
 ## Contents 
@@ -38,4 +39,4 @@ This is a web app built with **Flask** that lets users upload an audio file and 
 - mgc_code.ipynb
 - genres (directory)
 
-*Note: the genres folder contains audio files of different genres which can be used to test implementation.*
+*Note: The genres folder contains audio files of different genres which can be used to test implementation.*
