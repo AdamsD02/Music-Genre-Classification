@@ -33,7 +33,7 @@ This is a web app built with **Flask** that lets users upload an audio file and 
 Create a **config.py** file with `NGROK_TOKEN = 'Your_ngrok_Authotoken'` within the directory structure.*
 
 ---
-## Contents 
+## 📂 Contents 
 - README.md
 - feature_30_sec.csv
 - mgc_code.ipynb
